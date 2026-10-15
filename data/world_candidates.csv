@@ -1,0 +1,9 @@
+TAB NAME: 평산_이차망_가능세계_후보.csv>
+index,world_id,hypothesis,historical_basis,counterevidence_or_gap,epistemic_level,constraint
+W01,최아지 조광진 공모 타살,1787 안핵 인정,1789 판부 의문,CONTESTED_OFFICIAL,관측으로 승격 금지
+W02,박씨 자살/자해,초검 및 복검,1787 반박과 1789 일부 재검토,CONTESTED_OFFICIAL,방식 미확정
+W03,제3자 살해,1789 살옥 의문 제15항,독립 증거 부재,EXPLICIT_HYPOTHESIS,제3자 신원 생성 금지
+W04,타살이나 공모범위 다름,상흔 진술 상충,실제 행위자 특정 증거 부재,STRUCTURAL_CANDIDATE,인물 증명 없는 범인 확정 금지
+W05,조광진 자백 사실과 다름,형 7도 자백·1789 의심,고문에 의한 허위자백 직접 확인 불가,EVIDENCE_RELIABILITY,자백의 관측과 진실 분리
+W06,사단 초기·후기 진술 중 오염,조사 단계별 지목 변경,어느 공초 참인지 미확정,EVIDENCE_RELIABILITY,증언 번복은 고정
+W07,타살이나 성적 동기는 오류,동기와 살인 증거 독립,다른 동기 입증 없음,STRUCTURAL_CANDIDATE,동기와 사인 각각 독립 변수
