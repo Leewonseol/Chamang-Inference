@@ -1,0 +1,13 @@
+TAB NAME: 평산_이차망_사료_출처목록.csv>
+index,source_id,source,date_scope,title,url,verification_status,source_type,notes
+P1,심리록,1785-1789,평산 최아지 옥,https://db.history.go.kr/joseon/item/level.do?levelId=jlawb_420_0080_0040_0030,VERIFIED_DIRECT,PRIMARY_COMPILED,왕명·심리록 편찬 공유
+P2,추관지,1787;1789,최 조이 옥안,https://db.history.go.kr/joseon/item/level.do?levelId=jlawb_200r_0020_0020_0050_0090_0080,VERIFIED_DIRECT,PRIMARY_COMPILED,왕명·공초 내용이 P1과 중첩
+P3,정조실록,1787-04-16,이곤수 복명·관찰사 징계,https://sillok.history.go.kr/id/kva_11104016_003,VERIFIED_DIRECT,PRIMARY_ANNALES,행정 보고 공유 가능
+N1,우리역사넷,1785-1786,대전통편 시행 시기,https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_30&levelId=kc_r300285,VERIFIED_CONTEXT,NORMATIVE_SECONDARY,1785 편찬 1786 시행
+N2,GuSoon 소스 리스트,1776-1793,제도피처 참조용,https://github.com/Leewonseol/GuSoon-Inference/blob/claude/sweet-ptolemy-ah5l4i/gusun_clean_restart_csv_pack/02_institutional_normative_features.csv,VERIFIED_CONTEXT,REPOSITORY,1793 사례 내용 이관 금지
+C1,승정원일기,,평산 사건 개별 기사,,NOT_YET_IDENTIFIED,ARCHIVAL_CANDIDATE,사건일자 정밀 검색 필요
+C2,일성록,,평산 사건 개별 기사,,NOT_YET_IDENTIFIED,ARCHIVAL_CANDIDATE,1787 1789 날짜별 검색 필요
+C3,비변사등록,,평산 사건 개별 기사,,NOT_YET_IDENTIFIED,ARCHIVAL_CANDIDATE,직접 관련 여부 미확인
+S1,KCI,2026,심리록 판결 서사의 콘텐츠 가치 연구,https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003354662,ABSTRACT_VERIFIED,SECONDARY,본문 상세 대조 아직 미완료
+S2,법제처,,고법전 심리록(II),https://www.moleg.go.kr/mpbleg/mpblegInfo.mo?mid=a10402020000&mn=08&mpb_leg_pst_seq=125235&yr=1969,VERIFIED_CONTEXT,TRANSLATION,동일 판부의 독립 증인 아님
+S3,교보생명,,박소사의 실체를 찾다,https://www.kyobo.com/dgt/web/kbstory/contents/detail/1035,VERIFIED_CONTEXT,ADAPTATION,극화 장면 역사 사실로 이용 금지
